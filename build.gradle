@@ -45,3 +45,9 @@ test {
         }
     }
 }
+
+task RegistrationTests(type: Test) {
+    useJUnitPlatform {
+        includeTags("Registration")
+    }
+}
