@@ -1,0 +1,8 @@
+\.gradle
+\.idea
+\build
+*.log
+*.class
+\draft
+\telegramm
+\allure-notifications-4.2.1

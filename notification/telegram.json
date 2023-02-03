@@ -1,0 +1,16 @@
+{
+  "base": {
+    "project": "some project",
+    "environment": "some env",
+    "comment": "some comment",
+    "reportLink": "https://jenkins.autotests.cloud/job/Vlalekss_HW_16_10_properties/14/allure/",
+    "language": "en",
+    "allureFolder": "allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "5833955579:AAEOCx2Zycs89PWhxfBwLl5PfcMuLVjI5ks",
+    "chat": "-1001487515106",
+    "replyTo": ""
+  }
+}
